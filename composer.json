@@ -19,7 +19,6 @@
       "registration.php"
     ],
     "psr-4": {
-      "minimum-stability": "alpha",
       "SmallStripes\\Tools\\": ""
     }
   }
